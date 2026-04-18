@@ -1,3 +1,5 @@
+<img width="2560" height="1600" alt="0880175E-1999-4903-9AAB-7FA71632C0E9" src="https://github.com/user-attachments/assets/a01c3a7f-0dff-4680-8ead-a75811ab2630" />
+
 # **Supermarket Comparison Web App**
 
 Compare **supermarket prices**, **deals**, and **availability** across stores in **Kenya** (and beyond). Live demo: **https://gikenn.github.io/supermarket-comparison-web-app**
