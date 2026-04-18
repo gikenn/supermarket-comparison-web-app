@@ -1,4 +1,5 @@
-<img width="2560" height="1600" alt="0880175E-1999-4903-9AAB-7FA71632C0E9" src="https://github.com/user-attachments/assets/a01c3a7f-0dff-4680-8ead-a75811ab2630" />
+<img width="2548" height="1425" alt="630F7FEA-82CE-4E44-AB14-6A168C01C711" src="https://github.com/user-attachments/assets/de0f6d89-3d93-43f0-9457-c3b98ea4492f" />
+
 
 # **Supermarket Comparison Web App**
 
