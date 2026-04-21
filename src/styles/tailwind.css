@@ -1,4 +1,6 @@
-@import 'tailwindcss' source(none);
-@source '../**/*.{js,ts,jsx,tsx}';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-@import 'tw-animate-css';
+/* If you still want tw-animate-css, add it like this (if needed) */
+/* @import 'tw-animate-css'; */
