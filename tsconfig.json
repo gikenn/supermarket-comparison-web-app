@@ -10,10 +10,8 @@
     "moduleResolution": "bundler",
     "allowImportingTsExtensions": true,
     "resolveJsonModule": true,
-    "isolatedModules": true,
     "noEmit": true,
     "jsx": "react-jsx",
-    "types": ["vite/client"]
 
     /* Linting */
     "strict": true,
@@ -25,14 +23,7 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
-    },
-
-    /* Suppress TypeScript 7.0 baseUrl deprecation warning (for now) */
-    "ignoreDeprecations": "6.0"
+    }
   },
-
-  "include": ["src/**/*"],
-  "exclude": ["node_modules", "supabase", "utils"],
-
-  "references": [{ "path": "./tsconfig.node.json" }]
+  "include": ["src/**/*"]
 }
