@@ -24,8 +24,13 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
-    }
+    },
+
+    /* Suppress TypeScript 7.0 baseUrl deprecation warning (for now) */
+    "ignoreDeprecations": "6.0"
   },
-  "include": ["src", "utils", "supabase"],
+
+  "include": ["src/**/*"],
+
   "references": [{ "path": "./tsconfig.node.json" }]
 }

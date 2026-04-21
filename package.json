@@ -1,8 +1,18 @@
 {
-  "homepage": "https://gikenn.github.io/supermarket-comparison-web-app",
+  "type": "module",
   "scripts": {
-    "build": "tsc && vite build",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "@vitejs/plugin-react": "^6.0.1",
+    "autoprefixer": "^10.5.0",
+    "postcss": "^8.5.10",
+    "tailwindcss": "^4.2.2",
+    "vite": "^8.0.8"
   }
 }
